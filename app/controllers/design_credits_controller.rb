@@ -1,0 +1,2 @@
+class DesignCreditsController < ApplicationController
+end

@@ -1,0 +1,9 @@
+- @games.each do |game|
+    %p 
+        #{game.name} - #{game.publisher.name}
+    %p
+        #{game.description}
+
+    - game.designers.each do |designer|
+        %p
+            #{designer.name}

@@ -1,0 +1,2 @@
+module DesignCreditsHelper
+end
